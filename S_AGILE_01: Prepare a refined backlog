@@ -1,0 +1,8 @@
+As a User, I want to create new account, as a new user registiration 
+As a User, I want to veiw restaurants, based on top rated and closest to my location
+As a User, I want to search for specific restaurant, by arabic, english, voice or typing
+As a User, I want to veiw menu so that I can see all restaurants' menus including type of food I'm looking for
+As a User, I want to add an order to the cart so that I can see all my orders from many restaurants before check out 
+As a User, I want to have a purchase button, so that I can choose my payment method for my orders. 
+As a Restaurant, I want to veiw my orders, in priority seq. based on the time of the prepartion per meal so that I can prepare orders in seq. with no time delay
+As a Restaurant, I want a veiw for all my orders with the options to mark orders as done or delayed or being prepared. 
